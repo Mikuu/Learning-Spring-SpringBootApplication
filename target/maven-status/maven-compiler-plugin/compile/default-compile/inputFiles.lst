@@ -1,9 +1,0 @@
-/Users/ariman/Workspace/WireMockDemo/SpringBootCRUDApplicationExample/src/main/java/com/websystique/springboot/util/CustomErrorType.java
-/Users/ariman/Workspace/WireMockDemo/SpringBootCRUDApplicationExample/src/main/java/com/websystique/springboot/repositories/UserRepository.java
-/Users/ariman/Workspace/WireMockDemo/SpringBootCRUDApplicationExample/src/main/java/com/websystique/springboot/configuration/JpaConfiguration.java
-/Users/ariman/Workspace/WireMockDemo/SpringBootCRUDApplicationExample/src/main/java/com/websystique/springboot/model/User.java
-/Users/ariman/Workspace/WireMockDemo/SpringBootCRUDApplicationExample/src/main/java/com/websystique/springboot/service/UserServiceImpl.java
-/Users/ariman/Workspace/WireMockDemo/SpringBootCRUDApplicationExample/src/main/java/com/websystique/springboot/controller/AppController.java
-/Users/ariman/Workspace/WireMockDemo/SpringBootCRUDApplicationExample/src/main/java/com/websystique/springboot/controller/RestApiController.java
-/Users/ariman/Workspace/WireMockDemo/SpringBootCRUDApplicationExample/src/main/java/com/websystique/springboot/service/UserService.java
-/Users/ariman/Workspace/WireMockDemo/SpringBootCRUDApplicationExample/src/main/java/com/websystique/springboot/SpringBootCRUDApp.java

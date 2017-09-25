@@ -1,13 +1,13 @@
 ---
 server:
-  port: 8080
-  contextPath: /SpringBootCRUDApp
+  port: 8000
+  contextPath: /SpringDemo
 ---
 spring:
   profiles: local, default
 datasource:
   sampleapp:
-    url: jdbc:h2:~/test
+    url: jdbc:h2:~/Database/H2/SpringDemo/test
     username: SA
     password:
     driverClassName: org.h2.Driver

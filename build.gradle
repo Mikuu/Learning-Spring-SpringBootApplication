@@ -8,7 +8,7 @@ apply plugin: 'idea'
 apply plugin: 'org.springframework.boot'
 
 
-description = """SpringBootCRUDApplicationExample"""
+description = """SpringDemoExample"""
 
 sourceCompatibility = 1.8
 targetCompatibility = 1.8
